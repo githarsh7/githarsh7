@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SG%20HARSHAA&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Chennai%2C%20India&descAlignY=58&descColor=a78bfa&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a1200,60:2d1f00,100:0a0a0a&height=250&section=header&text=SG%20HARSHAA&fontSize=80&fontColor=FFD700&animation=fadeIn&fontAlignY=45&desc=◈%20FULL%20STACK%20ARCHITECT%20◈%20CHENNAI%2C%20INDIA%20◈&descAlignY=68&descColor=b8860b&descSize=16&stroke=FFD700&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+future%2C+one+commit+at+a+time;⚡+React+%7C+Node+%7C+TypeScript+%7C+AWS;🐳+Docker+%7C+Kubernetes+%7C+Kafka;🛠️+From+UI+pixels+to+cloud+infra;💡+Progress+Over+Perfection)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&pause=1500&color=FFD700&center=true&vCenter=true&width=750&lines=✦+Crafting+Digital+Experiences+with+Precision+✦;✦+React+·+Node+·+TypeScript+·+PostgreSQL+·+AWS+✦;✦+Docker+·+Kubernetes+·+Kafka+·+Prisma+·+MongoDB+✦;✦+Progress+Over+Perfection+—+Always+Shipping+✦)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,154 +14,249 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshaasg)
-[![Portfolio](https://img.shields.io/badge/─────%20Portfolio%20─────-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/vercelharsh7)
-[![GitHub](https://img.shields.io/badge/─────%20@githarsh7%20─────-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/githarsh7)
+[![LinkedIn](https://img.shields.io/badge/◆%20%20LinkedIn%20%20◆-FFD700?style=for-the-badge&logoColor=0a0a0a&logo=linkedin&labelColor=1a1200)](https://www.linkedin.com/in/harshaasg)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/◆%20%20Portfolio%20%20◆-FFD700?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=1a1200)](https://vercel.com/vercelharsh7)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/◆%20%20githarsh7%20%20◆-FFD700?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=1a1200)](https://github.com/githarsh7)&nbsp;&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=githarsh7&style=for-the-badge&color=FFD700&label=VISITORS&labelColor=1a1200)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🧬 `whoami`
+<br/>
 
-```bash
-$ cat /etc/harshaa.conf
+## ⬡ `About the Developer`
 
-  NAME     → SG HARSHAA
-  ROLE     → Full Stack Web Developer
-  BASE     → Chennai, Tamil Nadu 🇮🇳
-  MANTRA   → "Progress Over Perfection"
-  STATUS   → Open to collabs & opportunities
-  PASSION  → Turning ideas into scalable products
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=FFA500&text_color=d4af37&ring_color=FFD700&border_radius=16&custom_title=⬡%20Harshaa's%20Stats%20⬡"/>
+
+```javascript
+╔══════════════════════════════════════════╗
+║  const HARSHAA = {                       ║
+║    name    : "SG HARSHAA",               ║
+║    role    : "Full Stack Developer",     ║
+║    based   : "Chennai, Tamil Nadu",      ║
+║    mantra  : "Progress Over Perfection", ║
+║    passion : "Scalable Web Products",    ║
+║    status  : "Open to Opportunities ✅", ║
+║  }                                       ║
+╚══════════════════════════════════════════╝
 ```
 
-### 🎯 What I'm up to
+### &nbsp;⚔️ Currently
 
-- 🔭 Building full-stack apps with **React + Node + TypeScript**
-- 🧠 Deepening expertise in **System Design & Distributed Systems**
-- ☁️ Exploring advanced **AWS** + **Kubernetes** patterns
-- 🤝 Open source enthusiast — **always learning**
+- 🔭 &nbsp;Architecting **full-stack systems** with React + Node + TS
+- 🌊 &nbsp;Mastering **distributed systems** with Kafka + K8s
+- ☁️ &nbsp;Deploying production workloads on **AWS**
+- 💛 &nbsp;Motto: **Ship it. Iterate. Make it legendary.**
 
 <br clear="right"/>
 
+<br/>
+
 ---
 
-## ⚡ Arsenal
-
 <div align="center">
-
-### 🎨 Frontend Universe
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-
-### ⚙️ Backend Power
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### 🗄️ Data Layer
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🚀 Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
----
-
-## 📡 Stack Map
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🌐  FULL STACK OVERVIEW                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   BROWSER  ──►  React / Vue / Angular / Svelte              ║
-║                        │  TypeScript everywhere             ║
-║                        ▼                                     ║
-║              ┌─────────────────────┐                        ║
-║              │   Node.js + Express │  ◄──  REST / WS        ║
-║              │    Prisma ORM       │                        ║
-║              └────────┬────────────┘                        ║
-║                       │                                      ║
-║          ┌────────────┼────────────┐                        ║
-║          ▼            ▼            ▼                        ║
-║      PostgreSQL    MongoDB     Apache Kafka                  ║
-║      (relational)  (document)  (event stream)               ║
-║                                                              ║
-║              ┌─────────────────────┐                        ║
-║              │  Docker → K8s → AWS │  🚀 Production         ║
-║              └─────────────────────┘                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📊 Metrics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=githarsh7&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=555" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12" width="49%" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&bg_color=0d1117&color=00d4ff&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=githarsh7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Random Dog](https://github-readme-stats.vercel.app/api/pin/?username=githarsh7&repo=RANDOM-DOG-IMAGE-GENERATOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/githarsh7/RANDOM-DOG-IMAGE-GENERATOR)
-[![Smart Calc](https://github-readme-stats.vercel.app/api/pin/?username=githarsh7&repo=SMART-CALCULATOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/githarsh7/SMART-CALCULATOR)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Dev Mantra
-
-> *"Don't wait for perfect code — ship, iterate, and make it legendary."*
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=githarsh7&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+## ⬡ `Tech Arsenal`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 &nbsp;Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,angular,vue,svelte&theme=dark&perline=4" />
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ &nbsp;Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,kafka,prisma&theme=dark&perline=4" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,aws,docker&theme=dark&perline=4" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🚀 &nbsp;DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,linux&theme=dark&perline=8" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## ⬡ `Stack Architecture`
+
+<div align="center">
+
+```
+                    ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+                    ║   ✦  FULL STACK OVERVIEW  ✦   ║
+                    ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+
+  ╭──────────────────────────────────────────────────────╮
+  │  ⬡  CLIENT LAYER                                    │
+  │     React.js · Angular · Vue.js · Svelte            │
+  │     HTML · CSS · JavaScript · TypeScript            │
+  ╰───────────────────┬──────────────────────────────────╯
+                      │  HTTP / WebSocket / REST
+  ╭───────────────────▼──────────────────────────────────╮
+  │  ⬡  API LAYER                                       │
+  │     Node.js  +  Express.js                          │
+  │     Prisma ORM  (type-safe queries)                 │
+  ╰──────────┬──────────────────────────┬───────────────╯
+             │                          │
+  ╭──────────▼──────────╮   ╭───────────▼─────────────╮
+  │  ⬡  RELATIONAL      │   │  ⬡  DOCUMENT STORE      │
+  │     PostgreSQL       │   │     MongoDB              │
+  ╰─────────────────────╯   ╰─────────────────────────╯
+                         │
+  ╭──────────────────────▼───────────────────────────────╮
+  │  ⬡  EVENT STREAMING                                 │
+  │     Apache Kafka  (real-time pipelines)             │
+  ╰──────────────────────┬───────────────────────────────╯
+                         │
+  ╭──────────────────────▼───────────────────────────────╮
+  │  ⬡  INFRA & CLOUD                                   │
+  │     Docker  →  Kubernetes  →  AWS                   │
+  ╰──────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## ⬡ `GitHub Metrics`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=githarsh7&theme=highcontrast&hide_border=true&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=d4af37&dates=6b5a1a&currStreakNum=FFD700&sideNums=FFA500" width="49%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=d4af37&border_radius=12" width="46%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&bg_color=0a0a0a&color=FFD700&line=FFA500&point=ffffff&area_color=2d1f00&area=true&hide_border=true&custom_title=◈%20Contribution%20Timeline%20◈)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## ⬡ `Achievements`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=githarsh7&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## ⬡ `Featured Projects`
+
+<div align="center">
+
+[![Random Dog](https://github-readme-stats.vercel.app/api/pin/?username=githarsh7&repo=RANDOM-DOG-IMAGE-GENERATOR&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=d4af37&icon_color=FFA500&border_radius=12)](https://github.com/githarsh7/RANDOM-DOG-IMAGE-GENERATOR)
+&nbsp;&nbsp;
+[![Smart Calc](https://github-readme-stats.vercel.app/api/pin/?username=githarsh7&repo=SMART-CALCULATOR&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=d4af37&icon_color=FFA500&border_radius=12)](https://github.com/githarsh7/SMART-CALCULATOR)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✦ &nbsp;Dev Philosophy &nbsp;✦
+
+<br/>
+
+```
+  ╔═══════════════════════════════════════════════════════╗
+  ║                                                       ║
+  ║   " Don't wait for perfect code.                      ║
+  ║     Ship it. Iterate. Make it legendary. "            ║
+  ║                                                       ║
+  ║                             — SG HARSHAA             ║
+  ╚═══════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+**◈ &nbsp;Let's connect and build something legendary &nbsp;◈**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=1a1200)](https://www.linkedin.com/in/harshaasg)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/See%20My%20Work-FFD700?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=1a1200)](https://vercel.com/vercelharsh7)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1200,80:2d1f00,100:0a0a0a&height=140&section=footer&text=✦%20MADE%20WITH%20GOLD%20FROM%20CHENNAI%20✦&fontSize=16&fontColor=b8860b&animation=twinkling&fontAlignY=65"/>
 
 </div>
