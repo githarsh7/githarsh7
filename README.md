@@ -1,21 +1,20 @@
 <div align="center">
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HEADER WAVE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:140e00,60:2a1d00,100:0a0a0a&height=220&section=header&fontColor=FFD700&animation=fadeIn"/>
+<!-- ░░░░░░░░░░░  MOUNTAIN HEADER  ░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,20:0d1b2a,50:1a2744,80:162032,100:0a0f1e&height=260&section=header&text=&animation=fadeIn"/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GLOWING NAME  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjEyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDwhLS0gR29sZCBzaGltbWVyIGdyYWRpZW50IC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnb2xkU2hpbW1lciIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiAgIHN0b3AtY29sb3I9IiNiODg2MGIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIyMCUiICBzdG9wLWNvbG9yPSIjRkZENzAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDAlIiAgc3RvcC1jb2xvcj0iI0ZGRjhEQyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgIHN0b3AtY29sb3I9IiNGRkQ3MDAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI4MCUiICBzdG9wLWNvbG9yPSIjREFBNTIwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2I4ODYwYiIvPgogICAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJncmFkaWVudFRyYW5zZm9ybSIgdHlwZT0idHJhbnNsYXRlIgogICAgICAgIGZyb209Ii04MDAgMCIgdG89IjgwMCAwIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwhLS0gT3V0ZXIgZ2xvdyBmaWx0ZXIgLS0+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItMjAlIiB5PSItNTAlIiB3aWR0aD0iMTQwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIGluPSJTb3VyY2VHcmFwaGljIiBzdGREZXZpYXRpb249IjYiIHJlc3VsdD0iYmx1cjEiLz4KICAgICAgPGZlR2F1c3NpYW5CbHVyIGluPSJTb3VyY2VHcmFwaGljIiBzdGREZXZpYXRpb249IjEyIiByZXN1bHQ9ImJsdXIyIi8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iYmx1cjIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIxIi8+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+CiAgICAgIDwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogICAgPCEtLSBUaWdodCBnbG93IGZvciBjcmlzcCBlZGdlIC0tPgogICAgPGZpbHRlciBpZD0iY3Jpc3BHbG93IiB4PSItMTAlIiB5PSItMzAlIiB3aWR0aD0iMTIwJSIgaGVpZ2h0PSIxNjAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIGluPSJTb3VyY2VHcmFwaGljIiBzdGREZXZpYXRpb249IjMiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8IS0tIEJhY2tncm91bmQ6IGZ1bGx5IHRyYW5zcGFyZW50IC0tPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMTIwIiBmaWxsPSJub25lIi8+CgogIDwhLS0gRGVjb3JhdGl2ZSBsaW5lcyBmbGFua2luZyBuYW1lIC0tPgogIDxsaW5lIHgxPSIzMCIgeTE9IjYwIiB4Mj0iMTgwIiB5Mj0iNjAiIHN0cm9rZT0iI0RBQTUyMCIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjYiLz4KICA8bGluZSB4MT0iNjIwIiB5MT0iNjAiIHgyPSI3NzAiIHkyPSI2MCIgc3Ryb2tlPSIjREFBNTIwIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNiIvPgogIDxwb2x5Z29uIHBvaW50cz0iMTc1LDU2IDE4NSw2MCAxNzUsNjQiIGZpbGw9IiNGRkQ3MDAiIG9wYWNpdHk9IjAuOCIvPgogIDxwb2x5Z29uIHBvaW50cz0iNjI1LDU2IDYxNSw2MCA2MjUsNjQiIGZpbGw9IiNGRkQ3MDAiIG9wYWNpdHk9IjAuOCIvPgoKICA8IS0tIFNoYWRvdy9kZXB0aCBsYXllciAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjcyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSJib2xkIgogICAgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzNkMjgwMCIgb3BhY2l0eT0iMC42IiBkeT0iMyI+U0cgSEFSU0hBQTwvdGV4dD4KCiAgPCEtLSBBbWJlciBiYXNlIGxheWVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iNzIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjYzg5NjBjIiBmaWx0ZXI9InVybCgjZ2xvdykiPlNHIEhBUlNIQUE8L3RleHQ+CgogIDwhLS0gR29sZCBzaGltbWVyIGxheWVyIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iNzIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ1cmwoI2dvbGRTaGltbWVyKSIgZmlsdGVyPSJ1cmwoI2NyaXNwR2xvdykiPlNHIEhBUlNIQUE8L3RleHQ+CgogIDwhLS0gRGlhbW9uZCBvcm5hbWVudHMgLS0+CiAgPHRleHQgeD0iMjEwIiB5PSI3MiIgZm9udC1mYW1pbHk9InNlcmlmIiBmb250LXNpemU9IjE4IiBmaWxsPSIjRkZENzAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBvcGFjaXR5PSIwLjkiPuKcpjwvdGV4dD4KICA8dGV4dCB4PSI1OTAiIHk9IjcyIiBmb250LWZhbWlseT0ic2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZpbGw9IiNGRkQ3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIG9wYWNpdHk9IjAuOSI+4pymPC90ZXh0PgoKICA8IS0tIFN1YnRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMTAwIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSJub3JtYWwiCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjYzg5NjBjIiBsZXR0ZXItc3BhY2luZz0iNCIgb3BhY2l0eT0iMC44NSI+RlVMTCBTVEFDSyBXRUIgREVWRUxPUEVSPC90ZXh0Pgo8L3N2Zz4=" width="800" alt="SG HARSHAA"/>
+<!-- ░░░░░░░░░░░  GLOWING NAME SVG  ░░░░░░░░░░░ -->
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDkwMCAxNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8IS0tIERlZXAgbW91bnRhaW4gYXVyb3JhIGdyYWRpZW50IGZvciB0ZXh0IC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJhdXJvcmFHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgICBzdG9wLWNvbG9yPSIjYThlZGVhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMjUlIiAgc3RvcC1jb2xvcj0iIzRmYzNmNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgIHN0b3AtY29sb3I9IiNiMzlkZGIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3NSUiICBzdG9wLWNvbG9yPSIjODBjYmM0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E4ZWRlYSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KCiAgICA8IS0tIFNoaW1tZXIgc3dlZXAgYW5pbWF0aW9uIC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaGltbWVyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiAgIHN0b3AtY29sb3I9IiM0ZmMzZjciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjQwJSIgIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiAgc3RvcC1jb2xvcj0iI2IzOWRkYiIgc3RvcC1vcGFjaXR5PSIwLjYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNGZjM2Y3IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0iZ3JhZGllbnRUcmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIKICAgICAgICBmcm9tPSItOTAwIDAiIHRvPSI5MDAgMCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CgogICAgPCEtLSBHbG93IGZpbHRlciAtLT4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0xNSUiIHk9Ii00MCUiIHdpZHRoPSIxMzAlIiBoZWlnaHQ9IjE4MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgaW49IlNvdXJjZUdyYXBoaWMiIHN0ZERldmlhdGlvbj0iOCIgcmVzdWx0PSJibHVyMSIvPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgaW49IlNvdXJjZUdyYXBoaWMiIHN0ZERldmlhdGlvbj0iMyIgcmVzdWx0PSJibHVyMiIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIxIi8+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJibHVyMiIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KCiAgICA8ZmlsdGVyIGlkPSJzb2Z0R2xvdyIgeD0iLTUlIiB5PSItMjAlIiB3aWR0aD0iMTEwJSIgaGVpZ2h0PSIxNDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIGluPSJTb3VyY2VHcmFwaGljIiBzdGREZXZpYXRpb249IjIuNSIgcmVzdWx0PSJiIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYiIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KCiAgPCEtLSBUcmFuc3BhcmVudCBiYWNrZ3JvdW5kIC0tPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMTQwIiBmaWxsPSJub25lIi8+CgogIDwhLS0gRGVjb3JhdGl2ZSBtb3VudGFpbiBwZWFrIGxpbmVzIC0tPgogIDxwb2x5bGluZSBwb2ludHM9IjYwLDk1IDExMCw1MCAxNjAsOTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRmYzNmNyIgc3Ryb2tlLXdpZHRoPSIxLjIiIG9wYWNpdHk9IjAuMzUiLz4KICA8cG9seWxpbmUgcG9pbnRzPSI4NSw5NSAxMzAsMzggMTc1LDk1IiBmaWxsPSJub25lIiBzdHJva2U9IiNiMzlkZGIiIHN0cm9rZS13aWR0aD0iMC44IiBvcGFjaXR5PSIwLjI1Ii8+CiAgPHBvbHlsaW5lIHBvaW50cz0iNzI1LDk1IDc3MCw1MCA4MjAsOTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRmYzNmNyIgc3Ryb2tlLXdpZHRoPSIxLjIiIG9wYWNpdHk9IjAuMzUiLz4KICA8cG9seWxpbmUgcG9pbnRzPSI3NDAsOTUgNzg1LDM4IDgzMCw5NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjM5ZGRiIiBzdHJva2Utd2lkdGg9IjAuOCIgb3BhY2l0eT0iMC4yNSIvPgoKICA8IS0tIEhvcml6b250YWwgcnVsZSBsaW5lcyAtLT4KICA8bGluZSB4MT0iMTk1IiB5MT0iNzAiIHgyPSIzMTAiIHkyPSI3MCIgc3Ryb2tlPSIjODBjYmM0IiBzdHJva2Utd2lkdGg9IjAuNyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjU5MCIgeTE9IjcwIiB4Mj0iNzA1IiB5Mj0iNzAiIHN0cm9rZT0iIzgwY2JjNCIgc3Ryb2tlLXdpZHRoPSIwLjciIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjMxMCIgY3k9IjcwIiByPSIyLjUiIGZpbGw9IiM0ZmMzZjciIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjU5MCIgY3k9IjcwIiByPSIyLjUiIGZpbGw9IiNiMzlkZGIiIG9wYWNpdHk9IjAuNyIvPgoKICA8IS0tIFNoYWRvdyBkZXB0aCAtLT4KICA8dGV4dCB4PSI0NTIiIHk9IjgwIiBmb250LWZhbWlseT0iUGFsYXRpbm8gTGlub3R5cGUsIFBhbGF0aW5vLCBCb29rIEFudGlxdWEsIEdlb3JnaWEsIHNlcmlmIgogICAgZm9udC1zaXplPSI1OCIgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwYTE2MjgiIG9wYWNpdHk9IjAuNyIgZHk9IjQiPlNHIEhBUlNIQUE8L3RleHQ+CgogIDwhLS0gQmFzZSBhdXJvcmEgZ2xvdyBsYXllciAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjgwIiBmb250LWZhbWlseT0iUGFsYXRpbm8gTGlub3R5cGUsIFBhbGF0aW5vLCBCb29rIEFudGlxdWEsIEdlb3JnaWEsIHNlcmlmIgogICAgZm9udC1zaXplPSI1OCIgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICBmaWxsPSJ1cmwoI2F1cm9yYUdyYWQpIiBmaWx0ZXI9InVybCgjZ2xvdykiPlNHIEhBUlNIQUE8L3RleHQ+CgogIDwhLS0gU2hpbW1lciBvdmVybGF5IC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iODAiIGZvbnQtZmFtaWx5PSJQYWxhdGlubyBMaW5vdHlwZSwgUGFsYXRpbm8sIEJvb2sgQW50aXF1YSwgR2VvcmdpYSwgc2VyaWYiCiAgICBmb250LXNpemU9IjU4IiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgIGZpbGw9InVybCgjc2hpbW1lcikiIGZpbHRlcj0idXJsKCNzb2Z0R2xvdykiPlNHIEhBUlNIQUE8L3RleHQ+CgogIDwhLS0gU3RhciBvcm5hbWVudHMgLS0+CiAgPHRleHQgeD0iMzMwIiB5PSI3NiIgZm9udC1zaXplPSIxNCIgZmlsbD0iI2E4ZWRlYSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgb3BhY2l0eT0iMC45IiBmb250LWZhbWlseT0ic2VyaWYiPuKcpzwvdGV4dD4KICA8dGV4dCB4PSI1NzAiIHk9Ijc2IiBmb250LXNpemU9IjE0IiBmaWxsPSIjYThlZGVhIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBvcGFjaXR5PSIwLjkiIGZvbnQtZmFtaWx5PSJzZXJpZiI+4pynPC90ZXh0PgoKICA8IS0tIFN1YnRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ1MCIgeT0iMTE2IiBmb250LWZhbWlseT0iUGFsYXRpbm8gTGlub3R5cGUsIFBhbGF0aW5vLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIxMiIKICAgIGZvbnQtd2VpZ2h0PSI0MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM4MGNiYzQiIGxldHRlci1zcGFjaW5nPSI1IiBvcGFjaXR5PSIwLjg1Ij4KICAgIEZVTEwgIFNUQUNLICBXRUIgIERFVkVMT1BFUiAgwrcgIENIRU5OQUksICBJTkRJQQogIDwvdGV4dD4KPC9zdmc+" width="860" alt="SG HARSHAA — Full Stack Web Developer"/>
 
 <br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TYPING SUBTITLE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=15&pause=2000&color=DAA520&center=true&vCenter=true&width=680&height=36&lines=✦+React+%C2%B7+Node+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+MongoDB+✦;✦+Kafka+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Prisma+✦;✦+Progress+Over+Perfection+—+Always+Shipping+✦" alt="Subtitle Typing"/>
+<!-- ░░░░░░░░░░░  ANIMATED SUBTITLE  ░░░░░░░░░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=17&pause=2200&color=80CBC4&center=true&vCenter=true&width=700&height=34&lines=⛰+Building+from+pixel+to+cloud%2C+one+commit+at+a+time+⛰;🌊+React+·+Angular+·+Vue+·+Svelte+·+TypeScript;🏔+Node+·+Express+·+Kafka+·+PostgreSQL+·+MongoDB;☁️+Docker+·+Kubernetes+·+AWS+·+Prisma" alt="subtitle"/>
 
 <br/><br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SOCIAL BADGES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=1a1200)](https://www.linkedin.com/in/harshaasg)&ensp;[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=1a1200)](https://vercel.com/vercelharsh7)&ensp;[![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=1a1200)](https://github.com/githarsh7)&ensp;![Views](https://komarev.com/ghpvc/?username=githarsh7&style=for-the-badge&color=DAA520&label=PROFILE+VIEWS&labelColor=0a0a0a)
+<!-- ░░░░░░░░░░░  CONTACT BADGES  ░░░░░░░░░░░ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=4fc3f7&labelColor=0d1b2a)](https://www.linkedin.com/in/harshaasg)&ensp;[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=80cbc4&labelColor=0d1b2a)](https://vercel.com/vercelharsh7)&ensp;[![Gmail](https://img.shields.io/badge/Gmail-0d1b2a?style=for-the-badge&logo=gmail&logoColor=b39ddb&labelColor=0d1b2a)](mailto:harshaavardhan8@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=a8edea&labelColor=0d1b2a)](https://github.com/githarsh7)&ensp;![Views](https://komarev.com/ghpvc/?username=githarsh7&style=for-the-badge&color=4fc3f7&label=PROFILE+VIEWS&labelColor=0d1b2a)
 
 </div>
 
@@ -25,40 +24,41 @@
 
 <br/>
 
-<!-- ══════════════════  ABOUT  ══════════════════ -->
+<!-- ░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> &ensp; About the Developer
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snow-Capped%20Mountain.png" width="30"/> &ensp; Who Am I
 
 </div>
 
 <br/>
 
-<img align="right" width="395" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=DAA520&text_color=d4af37&border_radius=14&custom_title=◈%20GitHub%20Stats%20◈&include_all_commits=true&count_private=true"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&hide_border=true&bg_color=0a0f1e&title_color=80cbc4&icon_color=4fc3f7&text_color=a8edea&border_radius=14&custom_title=◈%20GitHub%20Stats%20◈&include_all_commits=true&count_private=true"/>
 
 ```javascript
-╔═══════════════════════════════════════════╗
-║                                           ║
-║   const HARSHAA = {                      ║
-║     name   : "SG HARSHAA",               ║
-║     role   : "Full Stack Developer",     ║
-║     base   : "Chennai, India 🇮🇳",      ║
-║     mantra : "Progress Over Perfection", ║
-║     loves  : "Scalable Web Products",    ║
-║     status : "Open to Opportunities ✅", ║
-║   }                                      ║
-║                                           ║
-╚═══════════════════════════════════════════╝
+╔════════════════════════════════════════════╗
+║                                            ║
+║   const HARSHAA = {                       ║
+║     name   : "SG HARSHAA",                ║
+║     role   : "Full Stack Developer",      ║
+║     base   : "Chennai, India 🇮🇳",       ║
+║     mantra : "Progress Over Perfection",  ║
+║     loves  : "Scalable Web Products",     ║
+║     mail   : "harshaavardhan8@gmail.com", ║
+║     status : "Open to Opportunities ✅",  ║
+║   }                                       ║
+║                                            ║
+╚════════════════════════════════════════════╝
 ```
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/> &ensp;Building full-stack systems with **React · Node · TypeScript**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/> &ensp; Building full-stack systems with **React · Node · TypeScript**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> &ensp;Mastering distributed systems — **Kafka · Kubernetes · Docker**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> &ensp; Mastering distributed systems — **Kafka · Kubernetes · Docker**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="20"/> &ensp;Deploying production workloads on **AWS**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="20"/> &ensp; Deploying production workloads on **AWS**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="20"/> &ensp;Motto: **Ship it · Iterate · Make it legendary**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="20"/> &ensp; Motto: **Ship it · Iterate · Make it legendary**
 
 <br clear="right"/>
 
@@ -68,11 +68,11 @@
 
 <br/>
 
-<!-- ══════════════════  TECH ARSENAL  ══════════════════ -->
+<!-- ░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &ensp; Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sunrise%20Over%20Mountains.png" width="30"/> &ensp; Tech Arsenal
 
 <br/>
 
@@ -130,27 +130,27 @@
 
 <br/>
 
-<!-- ══════════════════  ARCHITECTURE  ══════════════════ -->
+<!-- ░░░░░░░░░░░░  ARCHITECTURE  ░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/World%20Map.png" width="28"/> &ensp; Stack Architecture
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="30"/> &ensp; Stack Blueprint
 
 <br/>
 
 ```
   ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-  ║             ✦   FULL STACK BLUEPRINT   ✦            ║
+  ║             ✧   FULL STACK BLUEPRINT   ✧            ║
   ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
 
   ╭─────────────────────────────────────────────────────╮
-  │  🖥  CLIENT                                         │
+  │  🖥  CLIENT LAYER                                   │
   │      React · Angular · Vue · Svelte                 │
   │      HTML · CSS · JavaScript · TypeScript           │
   ╰────────────────────────┬────────────────────────────╯
                            │  REST · WebSocket
   ╭────────────────────────▼────────────────────────────╮
-  │  ⚙️  API                                            │
+  │  ⚙️  API LAYER                                      │
   │      Node.js + Express.js · Prisma ORM              │
   ╰───────────────┬─────────────────────┬───────────────╯
                   │                     │
@@ -176,21 +176,21 @@
 
 <br/>
 
-<!-- ══════════════════  METRICS  ══════════════════ -->
+<!-- ░░░░░░░░░░░░  METRICS  ░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &ensp; GitHub Metrics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> &ensp; GitHub Metrics
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=githarsh7&theme=highcontrast&hide_border=true&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=DAA520&dates=6b5000&currStreakNum=FFD700&sideNums=FFA500" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=githarsh7&theme=dark&hide_border=true&background=0a0f1e&ring=4fc3f7&fire=80cbc4&currStreakLabel=4fc3f7&sideLabels=80cbc4&dates=4a6070&currStreakNum=a8edea&sideNums=80cbc4" width="49%"/>
 &ensp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=DAA520&border_radius=14&custom_title=◈%20Top%20Languages%20◈" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=80cbc4&text_color=a8edea&border_radius=14&custom_title=◈%20Top%20Languages%20◈" width="46%"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&bg_color=0a0a0a&color=FFD700&line=DAA520&point=FFF8DC&area_color=1a1200&area=true&hide_border=true&custom_title=◈+Contribution+Timeline+◈)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&bg_color=0a0f1e&color=80cbc4&line=4fc3f7&point=a8edea&area_color=1a2744&area=true&hide_border=true&custom_title=◈+Contribution+Timeline+◈)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -200,15 +200,15 @@
 
 <br/>
 
-<!-- ══════════════════  TROPHIES  ══════════════════ -->
+<!-- ░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/> &ensp; Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30"/> &ensp; Achievements
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=githarsh7&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=githarsh7&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -218,40 +218,22 @@
 
 <br/>
 
-<!-- ══════════════════  PROJECTS  ══════════════════ -->
+<!-- ░░░░░░░░░░░░  PHILOSOPHY + FOOTER  ░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/> &ensp; Featured Projects
-
-<br/>
-
-[![Random Dog](https://github-readme-stats.vercel.app/api/pin/?username=githarsh7&repo=RANDOM-DOG-IMAGE-GENERATOR&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=DAA520&icon_color=FFA500&border_radius=14)](https://github.com/githarsh7/RANDOM-DOG-IMAGE-GENERATOR)&ensp;[![Smart Calc](https://github-readme-stats.vercel.app/api/pin/?username=githarsh7&repo=SMART-CALCULATOR&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=DAA520&icon_color=FFA500&border_radius=14)](https://github.com/githarsh7/SMART-CALCULATOR)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ══════════════════  FOOTER  ══════════════════ -->
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28"/> &ensp; Dev Philosophy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30"/> &ensp; Dev Philosophy
 
 <br/>
 
 ```
-  ╔═════════════════════════════════════════════════════════╗
-  ║                                                         ║
-  ║    " Don't wait for perfect code.                       ║
-  ║      Ship it. Iterate. Make it legendary. "             ║
-  ║                                                         ║
-  ║                                      — SG HARSHAA       ║
-  ╚═════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
+  ║    " The mountain doesn't care about your timeline.       ║
+  ║      Keep climbing. Ship it. Make it legendary. "         ║
+  ║                                                           ║
+  ║                                        — SG HARSHAA       ║
+  ╚═══════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -260,10 +242,10 @@
 
 <br/>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=1a1200)](https://www.linkedin.com/in/harshaasg)&ensp;[![See My Work](https://img.shields.io/badge/See%20My%20Work-FFD700?style=for-the-badge&logo=vercel&logoColor=0a0a0a&labelColor=1a1200)](https://vercel.com/vercelharsh7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4fc3f7?style=for-the-badge&logo=linkedin&logoColor=0a0f1e&labelColor=1a2744)](https://www.linkedin.com/in/harshaasg)&ensp;[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-b39ddb?style=for-the-badge&logo=gmail&logoColor=0a0f1e&labelColor=1a2744)](mailto:harshaavardhan8@gmail.com)&ensp;[![Portfolio](https://img.shields.io/badge/Vercel-See%20Work-80cbc4?style=for-the-badge&logo=vercel&logoColor=0a0f1e&labelColor=1a2744)](https://vercel.com/vercelharsh7)
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,35:140e00,70:2a1d00,100:0a0a0a&height=150&section=footer&text=✦+MADE+WITH+%E2%9D%A4%EF%B8%8F+FROM+CHENNAI%2C+INDIA+✦&fontSize=16&fontColor=c8960c&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,35:0d1b2a,70:1a2744,100:0a0f1e&height=160&section=footer&text=✧+BUILT+FROM+THE+PEAKS+OF+CHENNAI+✧&fontSize=16&fontColor=80cbc4&animation=twinkling&fontAlignY=65"/>
 
 </div>
