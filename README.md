@@ -18,8 +18,6 @@ FULL STACK DEVELOPER • MERN STACK ENGINEER • CLOUD & DEVOPS SPECIALIST
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 ## ABOUT ME
@@ -188,7 +186,7 @@ CGPA: 7.8/10
 
 <div align="center">
 
-CODE IS NOT JUST ABOUT FUNCTIONALITY — IT IS ABOUT BUILDING SYSTEMS THAT SCALE, PERFORM, AND CREATE VALUE.
+CODE IS NOT JUST ABOUT FUNCTIONALITY — IT IS ABOUT BUILDING SYSTEMS THAT SCALE, PERFORM AND CREATE VALUE.
 
 </div>
 
