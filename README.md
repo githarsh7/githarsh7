@@ -18,22 +18,6 @@ FULL STACK DEVELOPER • MERN STACK ENGINEER • CLOUD & DEVOPS SPECIALIST
 
 ---
 
-<div align="center">
-
-<a href="mailto:harshaavardhan8@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/harshaasg" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/githarsh7" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
 ## ABOUT ME
 
 I'M A FULL STACK DEVELOPER FOCUSED ON BUILDING SCALABLE, PERFORMANT, AND USER-CENTRIC APPLICATIONS.
@@ -113,11 +97,11 @@ KAFKA-BASED STREAMING ARCHITECTURE
 
 ## CURRENT WORK
 
-- BUILDING FULL-STACK APPLICATIONS WITH REACT AND NODE.JS.
-- DESIGNING SCALABLE BACKEND SERVICES.
-- WORKING WITH DOCKER AND KUBERNETES.
-- DEPLOYING CLOUD SOLUTIONS ON AWS.
-- IMPROVING DATABASE DESIGN AND OPTIMIZATION.
+- BUILDING FULL-STACK APPLICATIONS WITH REACT AND NODE.JS,
+- DESIGNING SCALABLE BACKEND SERVICES,
+- WORKING WITH DOCKER AND KUBERNETES,
+- DEPLOYING CLOUD SOLUTIONS ON AWS,
+- IMPROVING DATABASE DESIGN AND OPTIMIZATION,
 - EXPLORING EVENT-DRIVEN SYSTEMS WITH KAFKA.
 
 ---
