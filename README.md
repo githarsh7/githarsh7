@@ -4,7 +4,7 @@
 
 <div style="font-family: 'Space Grotesk', sans-serif; font-size: 18px; line-height: 1.6;">
 
-Full Stack Developer · MERN Stack Engineer · Cloud & DevOps Specialist
+FULL STACK DEVELOPER • MERN STACK ENGINEER • CLOUD & DEVOPS SPECIALIST
 
 </div>
 
@@ -37,9 +37,7 @@ Full Stack Developer · MERN Stack Engineer · Cloud & DevOps Specialist
 ## ABOUT ME
 
 I'm a Full Stack Developer focused on building scalable, performant, and user-centric applications.
-
 My primary expertise lies in the MERN ecosystem, backend architecture, cloud technologies, and modern deployment workflows.
-
 I enjoy transforming ideas into production-ready solutions while continuously exploring new technologies and best practices.
 
 ---
@@ -83,13 +81,13 @@ Scalable APIs and services
 <td align="center" width="50%">
 
 <strong>Containerization</strong><br>
-Docker and Kubernetes workflows
+Docker and Kubernetes WorkFlows
 
 </td>
 <td align="center" width="50%">
 
 <strong>Cloud Platforms</strong><br>
-AWS deployment and operations
+AWS Deployment and Operations
 
 </td>
 </tr>
@@ -103,7 +101,7 @@ Design, optimization, and performance
 <td align="center" width="50%">
 
 <strong>Event-Driven Systems</strong><br>
-Kafka-based streaming architecture
+Kafka-Based Streaming Architecture
 
 </td>
 </tr>
@@ -185,7 +183,7 @@ with a CGPA of 7.8/10
 
 <div align="center">
 
-> Code is not just about functionality -It's about building systems that scale, perform, and create value.
+> Code is not just about functionality-It's about building systems that scale, perform, and create value.
 
 </div>
 
