@@ -2,9 +2,13 @@
 
 # HARSHAA SG
 
+<div style="font-family: 'Space Grotesk', sans-serif; font-size: 18px; line-height: 1.6;">
+
 Full Stack Developer · MERN Stack Engineer · Cloud & DevOps Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Designing+scalable+backend+systems;Cloud+and+DevOps+enthusiast;Always+learning+and+shipping" />
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Designing+scalable+backend+systems;Cloud+and+DevOps+enthusiast;Always+learning+and+shipping" />
 
 <br>
 
@@ -15,8 +19,6 @@ Full Stack Developer · MERN Stack Engineer · Cloud & DevOps Specialist
 ---
 
 <div align="center">
-
-### CONNECT
 
 <a href="mailto:harshaavardhan8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -66,15 +68,13 @@ I enjoy transforming ideas into production-ready solutions while continuously ex
 <tr>
 <td align="center" width="50%">
 
-**Full-Stack Development**
-
+<strong>Full-Stack Development</strong><br>
 React and Node.js applications
 
 </td>
 <td align="center" width="50%">
 
-**Backend Architecture**
-
+<strong>Backend Architecture</strong><br>
 Scalable APIs and services
 
 </td>
@@ -82,15 +82,13 @@ Scalable APIs and services
 <tr>
 <td align="center" width="50%">
 
-**Containerization**
-
+<strong>Containerization</strong><br>
 Docker and Kubernetes workflows
 
 </td>
 <td align="center" width="50%">
 
-**Cloud Platforms**
-
+<strong>Cloud Platforms</strong><br>
 AWS deployment and operations
 
 </td>
@@ -98,15 +96,13 @@ AWS deployment and operations
 <tr>
 <td align="center" width="50%">
 
-**Database Engineering**
-
+<strong>Database Engineering</strong><br>
 Design, optimization, and performance
 
 </td>
 <td align="center" width="50%">
 
-**Event-Driven Systems**
-
+<strong>Event-Driven Systems</strong><br>
 Kafka-based streaming architecture
 
 </td>
@@ -156,8 +152,16 @@ Kafka-based streaming architecture
 ---
 
 ## EDUCATION
-
 Bachelor in Computer Science and Engineering 
+with a CGPA of 7.8/10
+
+---
+
+## PORTFOLIO / WEBSITE
+
+- Personal Website → Add your link here
+- LinkedIn → [harshaasg](https://www.linkedin.com/in/harshaasg)
+- GitHub → [githarsh7](https://github.com/githarsh7)
 
 ---
 
@@ -181,7 +185,7 @@ Bachelor in Computer Science and Engineering
 
 <div align="center">
 
-> Code is not just about functionality. It's about building systems that scale, perform, and create value.
+> Code is not just about functionality -It's about building systems that scale, perform, and create value.
 
 </div>
 
