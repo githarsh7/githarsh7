@@ -4,7 +4,7 @@
 
 Full Stack Developer · MERN Stack Engineer · Cloud & DevOps Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Designing+scalable+backend+systems;Cloud+and+DevOps+enthusiast;Always+learning+and+shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Designing+scalable+backend+systems;Cloud+and+DevOps+enthusiast;Always+learning+and+shipping" />
 
 <br>
 
@@ -18,11 +18,14 @@ Full Stack Developer · MERN Stack Engineer · Cloud & DevOps Specialist
 
 ### CONNECT
 
-<a href="mailto:harshaavardhan8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:harshaavardhan8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/githarsh7">
-  <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/harshaasg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/githarsh7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -146,9 +149,15 @@ Kafka-based streaming architecture
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&theme=tokyo-night&hide_border=true&width=900&height=300" />
 
 </div>
+
+---
+
+## EDUCATION
+
+Bachelor in Computer Science and Engineering 
 
 ---
 
@@ -156,11 +165,14 @@ Kafka-based streaming architecture
 
 <div align="center">
 
-<a href="mailto:harshaavardhan8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:harshaavardhan8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/githarsh7">
-  <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/harshaasg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/githarsh7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
