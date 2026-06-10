@@ -1,120 +1,53 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm HarshaSG
+<div align="center">HARSHAA SG
 
-<h3 align="center">
-🚀 Full Stack Developer | MERN Stack Developer | Cloud & DevOps Enthusiast
-</h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Technologies" />
-</p>---
+Full Stack Developer • MERN Stack Engineer • Cloud & DevOps
 
-💫 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=800&lines=Building+modern+web+applications;Designing+scalable+backend+systems;Cloud+and+DevOps+enthusiast;Always+learning+and+shipping" /></div>---
 
-const harsha = {
-    name: "HARSHAA SG",
-    role: "Full Stack Developer",
-    location: "India",
-    email: "harshaavardhan8@gmail.com",
+💻 About
 
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React.js",
-        "Angular"
-    ],
+I'm a Full Stack Developer focused on building scalable, performant, and user-centric applications.
 
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
-
-    databases: [
-        "MongoDB",
-        "PostgreSQL"
-    ],
-
-    devops: [
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "CI/CD"
-    ],
-
-    tools: [
-        "Kafka",
-        "Prisma",
-        "Git",
-        "GitHub"
-    ],
-
-    currentFocus: "Building scalable full-stack applications"
-};
+My primary expertise lies in the MERN ecosystem, backend architecture, cloud technologies, and modern deployment workflows. I enjoy transforming ideas into production-ready solutions while continuously exploring new technologies and best practices.
 
 ---
 
-🛠️ Tech Stack
+🛠 Tech Stack
 
-Frontend
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,mongodb,postgres,docker,kubernetes,aws,git,github&perline=7" /><br/><img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-111827?style=flat-square" /></div>---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular" />
-</p>Backend
+📊 GitHub Statistics
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>Databases
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&theme=tokyonight&hide_border=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&theme=tokyonight&hide_border=true" /></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=githarsh7&theme=tokyonight&hide_border=true" /></div>---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>Cloud & DevOps
+📈 Contribution Activity
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
-</p>Tools & Technologies
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&theme=tokyo-night&hide_border=true" /></div>---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github" />
-<img src="https://cdn.simpleicons.org/apachekafka" width="48"/>
-<img src="https://cdn.simpleicons.org/prisma" width="48"/>
-</p>---
+Current Focus
 
-📊 GitHub Stats
-
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&theme=tokyonight&hide_border=true"/></p>---
-
-🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=githarsh7&theme=tokyonight&hide_border=true"/>
-</p>---
-
-📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=githarsh7&theme=tokyo-night&hide_border=true"/>
-</p>---
-
-🌟 What I Do
-
-✨ Build responsive web applications
-
-✨ Design scalable backend systems
-
-✨ Develop MERN stack projects
-
-✨ Work with cloud-native technologies
-
-✨ Implement CI/CD pipelines
-
-✨ Containerize applications using Docker & Kubernetes
-
-✨ Build high-performance APIs
+- Building full-stack applications with React and Node.js
+- Designing scalable backend services
+- Containerization with Docker and Kubernetes
+- Cloud deployments on AWS
+- Database design and optimization
+- Event-driven systems with Kafka
 
 ---
 
-📫 Connect With Me
+📫 Contact
 
-<p align="center"><a href="mailto:harshaavardhan8@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<div align="center"><a href="mailto:harshaavardhan8@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><a href="https://github.com/githarsh7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a></div>---
+
+<div align="center">"Code is not just about functionality. It's about building systems that scale, perform, and create value."
+
+</div><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://github.com/githarsh7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></p>---
