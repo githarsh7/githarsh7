@@ -20,28 +20,12 @@ FULL STACK DEVELOPER • MERN STACK ENGINEER • CLOUD & DEVOPS SPECIALIST
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<div align="center">
-
-<a href="mailto:harshaavardhan8@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/harshaasg" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/githarsh7" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 ## ABOUT ME
 
-I'M A FULL STACK DEVELOPER FOCUSED ON BUILDING SCALABLE, PERFORMANT, AND USER-CENTRIC APPLICATIONS.
-
-MY PRIMARY EXPERTISE LIES IN THE MERN ECOSYSTEM, BACKEND ARCHITECTURE, CLOUD TECHNOLOGIES, AND MODERN DEPLOYMENT WORKFLOWS.
-
+I'M A FULL STACK DEVELOPER FOCUSED ON BUILDING SCALABLE, PERFORMANT AND USER-CENTRIC APPLICATIONS.
+MY PRIMARY EXPERTISE LIES IN THE MERN ECOSYSTEM, BACKEND ARCHITECTURE, CLOUD TECHNOLOGIES AND MODERN DEPLOYMENT WORKFLOWS.
 I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EXPLORING NEW TECHNOLOGIES AND BEST PRACTICES.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
@@ -204,13 +188,14 @@ CGPA: 7.8/10
 
 <div align="center">
 
-> CODE IS NOT JUST ABOUT FUNCTIONALITY — IT IS ABOUT BUILDING SYSTEMS THAT SCALE, PERFORM, AND CREATE VALUE.
+CODE IS NOT JUST ABOUT FUNCTIONALITY — IT IS ABOUT BUILDING SYSTEMS THAT SCALE, PERFORM, AND CREATE VALUE.
 
 </div>
 
 <div align="center">
 
 ## CODE • BUILD • SCALE • REPEAT
+## MADE WITH LOVE 🤎👍🏽 BY HARSHAA SG
 
 </div>
 
