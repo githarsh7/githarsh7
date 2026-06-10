@@ -8,11 +8,11 @@ FULL STACK DEVELOPER • MERN STACK ENGINEER • CLOUD & DEVOPS SPECIALIST
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Designing+scalable+backend+systems;Cloud+and+DevOps+enthusiast;Always+learning+and+shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=BUILDING+MODERN+WEB+APPLICATIONS;DESIGNING+SCALABLE+BACKEND+SYSTEMS;CLOUD+AND+DEVOPS+ENTHUSIAST;ALWAYS+LEARNING+AND+SHIPPING" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=githarsh7&label=Profile%20Views&color=ff6600&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=githarsh7&label=PROFILE%20VIEWS&color=ff6600&style=flat-square" />
 
 </div>
 
@@ -21,13 +21,13 @@ FULL STACK DEVELOPER • MERN STACK ENGINEER • CLOUD & DEVOPS SPECIALIST
 <div align="center">
 
 <a href="mailto:harshaavardhan8@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/harshaasg" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/githarsh7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -36,9 +36,11 @@ FULL STACK DEVELOPER • MERN STACK ENGINEER • CLOUD & DEVOPS SPECIALIST
 
 ## ABOUT ME
 
-I'm a Full Stack Developer focused on building scalable, performant, and user-centric applications.
-My primary expertise lies in the MERN ecosystem, backend architecture, cloud technologies, and modern deployment workflows.
-I enjoy transforming ideas into production-ready solutions while continuously exploring new technologies and best practices.
+I'M A FULL STACK DEVELOPER FOCUSED ON BUILDING SCALABLE, PERFORMANT, AND USER-CENTRIC APPLICATIONS.
+
+MY PRIMARY EXPERTISE LIES IN THE MERN ECOSYSTEM, BACKEND ARCHITECTURE, CLOUD TECHNOLOGIES, AND MODERN DEPLOYMENT WORKFLOWS.
+
+I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EXPLORING NEW TECHNOLOGIES AND BEST PRACTICES.
 
 ---
 
@@ -50,8 +52,8 @@ I enjoy transforming ideas into production-ready solutions while continuously ex
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/KAFKA-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/PRISMA-111111?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" />
 
 </div>
@@ -66,42 +68,42 @@ I enjoy transforming ideas into production-ready solutions while continuously ex
 <tr>
 <td align="center" width="50%">
 
-<strong>Full-Stack Development</strong><br>
-React and Node.js applications
+<strong>FULL-STACK DEVELOPMENT</strong><br>
+REACT AND NODE.JS APPLICATIONS
 
 </td>
 <td align="center" width="50%">
 
-<strong>Backend Architecture</strong><br>
-Scalable APIs and services
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<strong>Containerization</strong><br>
-Docker and Kubernetes WorkFlows
-
-</td>
-<td align="center" width="50%">
-
-<strong>Cloud Platforms</strong><br>
-AWS Deployment and Operations
+<strong>BACKEND ARCHITECTURE</strong><br>
+SCALABLE APIS AND SERVICES
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-<strong>Database Engineering</strong><br>
-Design, optimization, and performance
+<strong>CONTAINERIZATION</strong><br>
+DOCKER AND KUBERNETES WORKFLOWS
 
 </td>
 <td align="center" width="50%">
 
-<strong>Event-Driven Systems</strong><br>
-Kafka-Based Streaming Architecture
+<strong>CLOUD PLATFORMS</strong><br>
+AWS DEPLOYMENT AND OPERATIONS
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<strong>DATABASE ENGINEERING</strong><br>
+DESIGN, OPTIMIZATION, AND PERFORMANCE
+
+</td>
+<td align="center" width="50%">
+
+<strong>EVENT-DRIVEN SYSTEMS</strong><br>
+KAFKA-BASED STREAMING ARCHITECTURE
 
 </td>
 </tr>
@@ -113,12 +115,12 @@ Kafka-Based Streaming Architecture
 
 ## CURRENT WORK
 
-- Building full-stack applications with React and Node.js.
-- Designing scalable backend services.
-- Working with Docker and Kubernetes.
-- Deploying cloud solutions on AWS.
-- Improving database design and optimization.
-- Exploring event-driven systems with Kafka.
+- BUILDING FULL-STACK APPLICATIONS WITH REACT AND NODE.JS.
+- DESIGNING SCALABLE BACKEND SERVICES.
+- WORKING WITH DOCKER AND KUBERNETES.
+- DEPLOYING CLOUD SOLUTIONS ON AWS.
+- IMPROVING DATABASE DESIGN AND OPTIMIZATION.
+- EXPLORING EVENT-DRIVEN SYSTEMS WITH KAFKA.
 
 ---
 
@@ -150,16 +152,18 @@ Kafka-Based Streaming Architecture
 ---
 
 ## EDUCATION
-Bachelor in Computer Science and Engineering 
-with a CGPA of 7.8/10
+
+BACHELOR OF COMPUTER SCIENCE AND ENGINEERING
+
+CGPA: 7.8/10
 
 ---
 
 ## PORTFOLIO / WEBSITE
 
-- Personal Website → Add your link here
-- LinkedIn → [harshaasg](https://www.linkedin.com/in/harshaasg)
-- GitHub → [githarsh7](https://github.com/githarsh7)
+- PERSONAL WEBSITE → ( BUILDING )
+- LINKEDIN → HARSHAA SG
+- GITHUB → githarsh7 
 
 ---
 
@@ -168,13 +172,13 @@ with a CGPA of 7.8/10
 <div align="center">
 
 <a href="mailto:harshaavardhan8@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/harshaasg" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/githarsh7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -183,12 +187,12 @@ with a CGPA of 7.8/10
 
 <div align="center">
 
-> Code is not just about functionality-It's about building systems that scale, perform, and create value.
+> CODE IS NOT JUST ABOUT FUNCTIONALITY — IT IS ABOUT BUILDING SYSTEMS THAT SCALE, PERFORM, AND CREATE VALUE.
 
 </div>
 
 <div align="center">
 
-**Code - Build - Scale - Repeat**
+## CODE • BUILD • SCALE • REPEAT
 
 </div>
