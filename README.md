@@ -114,8 +114,6 @@ KAFKA-BASED STREAMING ARCHITECTURE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=githarsh7&theme=radical&no-frame=true&row=1&column=6" />
-
 <br><br>
 
 <table>
