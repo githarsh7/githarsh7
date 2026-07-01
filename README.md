@@ -199,7 +199,7 @@ CGPA: 7.8/10
 
 ## PORTFOLIO / WEBSITE
 
-- PORTFOLIO → https://harshaasg-portfolio.vercel.app/ 
+- PERSONAL WEBSITE → [HARSHAA SG](https://harshaasg-portfolio.vercel.app/)
 - LINKEDIN → HARSHAA SG
 - GITHUB → githarsh7
 
