@@ -34,7 +34,7 @@ I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EX
 
 <br>
 
-<strong>FRONTEND</strong>
+<strong>FRONTEND ~</strong>
 
 <br><br>
 
@@ -47,7 +47,7 @@ I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EX
 
 <br><br>
 
-<strong>BACKEND</strong>
+<strong>BACKEND ~</strong>
 
 <br><br>
 
@@ -55,7 +55,7 @@ I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EX
 
 <br><br>
 
-<strong>DATABASE</strong>
+<strong>DATABASE ~</strong>
 
 <br><br>
 
@@ -67,7 +67,7 @@ I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EX
 
 <br><br>
 
-<strong>CLOUD & DEVOPS</strong>
+<strong>CLOUD & DEVOPS ~</strong>
 
 <br><br>
 
@@ -79,7 +79,7 @@ I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EX
 
 <br><br>
 
-<strong>TOOLS</strong>
+<strong>TOOLS ~</strong>
 
 <br><br>
 
@@ -165,13 +165,13 @@ KAFKA-BASED STREAMING ARCHITECTURE
 <tr>
 <td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+<img height="170" src="https://i.pinimg.com/1200x/22/d1/dd/22d1ddf6bdd6a3379cc960f4c3b12959.jpg" />
 
 </td>
 
 <td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+<img height="170" src="https://i.pinimg.com/1200x/48/6c/c9/486cc977c2e289e597a9d622ada29148.jpg" />
 
 </td>
 </tr>
