@@ -32,13 +32,58 @@ I ENJOY TRANSFORMING IDEAS INTO PRODUCTION-READY SOLUTIONS WHILE CONTINUOUSLY EX
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,mongodb,postgres,docker,kubernetes,aws,git,github&theme=dark&perline=7" />
+<br>
+
+<strong>FRONTEND</strong>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/KAFKA-111111?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/PRISMA-111111?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
+
+<br>
+
+<img src="https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<img src="https://img.shields.io/badge/FRAMER%20MOTION-111111?style=for-the-badge&logo=framer&logoColor=white" />
+
+<br><br>
+
+<strong>BACKEND</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=py,django,nodejs,express&theme=dark&perline=8" />
+
+<br><br>
+
+<strong>DATABASE</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,cassandra&theme=dark&perline=8" />
+
+<br>
+
+<img src="https://img.shields.io/badge/ORACLE-111111?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<br><br>
+
+<strong>CLOUD & DEVOPS</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark&perline=8" />
+
+<br>
+
 <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" />
+
+<br><br>
+
+<strong>TOOLS</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,redux,kafka,prisma&theme=dark&perline=8" />
 
 </div>
 
@@ -120,13 +165,13 @@ KAFKA-BASED STREAMING ARCHITECTURE
 <tr>
 <td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=githarsh7&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 
 </td>
 
 <td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githarsh7&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 
 </td>
 </tr>
@@ -154,7 +199,7 @@ CGPA: 7.8/10
 
 ## PORTFOLIO / WEBSITE
 
-- PERSONAL WEBSITE → ( BUILDING )
+- PORTFOLIO → https://harshaasg-portfolio.vercel.app/ 
 - LINKEDIN → HARSHAA SG
 - GITHUB → githarsh7
 
