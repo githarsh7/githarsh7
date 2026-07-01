@@ -192,16 +192,15 @@ KAFKA-BASED STREAMING ARCHITECTURE
 ## EDUCATION
 
 BACHELOR OF COMPUTER SCIENCE AND ENGINEERING
-
-CGPA: 7.8/10
+PERI INSTITUTE OF TECHNOLOGY, CHENNAI,
+CGPA : 7.8/10!
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 ## PORTFOLIO / WEBSITE
 
 - PERSONAL WEBSITE → [HARSHAA SG](https://harshaasg-portfolio.vercel.app/)
-- LINKEDIN → HARSHAA SG
-- GITHUB → githarsh7
+- LINKEDIN → [HARSHAA SG](https://www.linkedin.com/in/harshaasg)
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
